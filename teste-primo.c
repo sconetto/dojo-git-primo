@@ -6,7 +6,7 @@ int primo(long long n) {
 
 	int resultado = 1;
 
-	for (int i = n-1; i > 1; --i) {
+	for (long long i = n-1; i > 1; --i) {
 		
 		if(n % i == 0){
 			resultado = 0;
@@ -22,15 +22,15 @@ int primo(long long n) {
 int main() {
 	//Seu código
 
-	int num = 0;
+	long long num = 0;
 
 	printf("Digite um numero: ");
-	scanf("%d", &num);
+	scanf("%lld", &num);
 
 	int resultado = primo(num);
 
 	if(resultado == 0){
-			printf("Nao primo");
+			printf("Nao primo\n");
 	}else{
 		printf("Primo");
 	}
