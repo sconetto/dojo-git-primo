@@ -13,10 +13,12 @@ int primo(long long n) {
     i++;
   }
   return 0;
+
 }
 
 int main() {
 	//Seu código
+<<<<<<< HEAD
   long long number;
   int answer;
 
