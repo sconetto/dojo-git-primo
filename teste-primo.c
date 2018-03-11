@@ -3,6 +3,7 @@
 #include <math.h>
 #include <locale.h>
 
+//outro teste!
 //um teste!
 //#define 0 1
 //#define 1 0
