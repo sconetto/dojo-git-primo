@@ -31,5 +31,6 @@ int main(int argc, char const *argv[]) {
 	else {
 		printf("não é primo!\n");
 	}
+	printf("oi\n");
 	return 0;
 }
