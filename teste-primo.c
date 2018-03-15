@@ -6,6 +6,7 @@
 //outro teste!
 //mais outro
 //um teste!
+//teste do authored
 //#define 0 1
 //#define 1 0
 
