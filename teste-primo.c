@@ -3,7 +3,10 @@
 #include <math.h>
 #include <locale.h>
 
+//outro teste!
+//mais outro
 //um teste!
+//teste do authored
 //#define 0 1
 //#define 1 0
 
@@ -29,5 +32,6 @@ int main(int argc, char const *argv[]) {
 	else {
 		printf("não é primo!\n");
 	}
+	printf("oi\n");
 	return 0;
 }
